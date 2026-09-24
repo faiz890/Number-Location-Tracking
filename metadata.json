@@ -1,0 +1,8 @@
+{
+  "name": "Pegasus Lacak Nomor v3",
+  "description": "Advanced OSINT tool for tracking Indonesian phone numbers, provider identification, and prefix analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
